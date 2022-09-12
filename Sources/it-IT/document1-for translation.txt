@@ -1,3 +1,4 @@
 Questo è un testo di prova in GitHub.
 Questo è il numero di riga 2 nel file.
 Questo è il numero di riga 3 nel file.
+Ora sto apportando una nuova modifica a questo file, per la traduzione in tutte le lingue.
