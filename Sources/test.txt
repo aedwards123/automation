@@ -1,1 +1,2 @@
 This is a demo file for Automation
+This is an update after the first translation. This is done with machine translation.

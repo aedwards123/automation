@@ -1,1 +1,2 @@
 Il s'agit d'un fichier de démonstration pour Automation
+Il s'agit d'une mise à jour après la première traduction. Ceci est effectué avec la traduction automatique.
