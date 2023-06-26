@@ -1,4 +1,3 @@
 Questo è un testo di prova in GitHub.
-Questo è il numero di riga 2 nel file.
-Questo è il numero di riga 3 nel file.
-Ora sto apportando una nuova modifica a questo file, per la traduzione in tutte le lingue.
+Questa è la riga numero 2 nel file.
+Si tratta di un aggiornamento in "Automation/Sources/Document1-fortranslation" il 26 giugno 2023.
