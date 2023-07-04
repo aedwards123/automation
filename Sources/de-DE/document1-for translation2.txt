@@ -1,0 +1,4 @@
+Dies ist ein Testtext in GitHub.
+Dies ist die Zeilennummer 2 in der Datei.
+Dies ist ein Update unter „Automation/sources/Document1-fortranslation“ vom 3. Juli 2023. COMENTARIO FINAL DTP
+Das ist ein Satz über Bäume. Es gibt viele verschiedene Arten von Bäumen, einschließlich Birke und Eiche. Palmen gibt es in heißen Ländern. Tannen sind in kalten Ländern üblich.

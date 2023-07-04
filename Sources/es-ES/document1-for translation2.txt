@@ -1,0 +1,4 @@
+Este es un texto de prueba en GitHub.
+Este es el número de línea 2 en el archivo.
+Esta es una actualización en “automation/sources/Document1-fortranslation” en 3 de julio de 2023. COMENTARIO DEL PASO FINAL DE DTP.
+Esta es una frase sobre los árboles. Hay muchos tipos diferentes de árboles, incluyendo abedul y roble. Las palmeras existen en los países calientes. Los abetos son comunes en los países fríos.

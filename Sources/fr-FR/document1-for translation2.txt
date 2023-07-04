@@ -1,0 +1,4 @@
+Ceci est un texte de test dans GitHub.
+Il s'agit de la ligne numéro 2 dans le fichier.
+Il s'agit d'une mise à jour sous "automation/sources/Document1-fortranslation" le 3rd juillet 2023. COMENTARIO FINAL DTP
+Il s'agit d'une phrase sur les arbres. Il existe de nombreux types d'arbres, dont le bouleau et le chêne. Les palmiers existent dans les pays chauds. Les sapins sont communs dans les pays froids.

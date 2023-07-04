@@ -1,0 +1,4 @@
+Questo è un testo di prova in GitHub.
+Questa è la riga numero 2 nel file.
+Si tratta di un aggiornamento in "Automation/Sources/Document1-fortranslation" il 3 luglio 2023. COMENTARIO FINAL DTP
+Questa è una frase sugli alberi. Ci sono molti tipi diversi di alberi, tra cui betulla e quercia. Le palme esistono nei paesi caldi. Gli abeti sono comuni nei paesi freddi.
